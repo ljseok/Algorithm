@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BasicDisjointAlgorithm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BinarySearch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CipherAlgorithm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DFS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Development" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DijkstraAlgorithm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DisjointCycle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dynamic Programing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Eratosthenes Sieve Algorithm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Floyd_Warshall_Algorithm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GreedyAlgorithm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ImproveDisjointAlgorithm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ListUnionOperationAlgorithm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PrimeNumebrAlgorithm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spanning Tree" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Topology Sort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Two Pointer Algorithm" vcs="Git" />
+  </component>
+</project>
